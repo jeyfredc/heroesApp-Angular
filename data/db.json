@@ -8,22 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
@@ -166,6 +150,33 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "InpZ5-7",
+      "superhero": "Jeyfred",
+      "publisher": "Marvel Comics",
+      "alter_ego": "jeyfredMan",
+      "first_appearance": "Programación comic 2020",
+      "characters": "Jeyfredc",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Ysp7SAIZcBQtC-3UpQWXLFXTpkV4lU3iZ4leC4uR_g&s"
+    },
+    {
+      "id": "KYAF_Mw",
+      "superhero": "Jeyfredc",
+      "publisher": "DC Comics",
+      "alter_ego": "jeje",
+      "first_appearance": "Comicon #4",
+      "characters": "Goku",
+      "alt_img": "https://www.nintenderos.com/wp-content/uploads/2022/10/goku-super-saiyan.webp"
+    },
+    {
+      "id": "gRMW8JG",
+      "superhero": "Jeyfredccc",
+      "publisher": "DC Comics",
+      "alter_ego": "jeyfredc",
+      "first_appearance": "Comic #10",
+      "characters": "Goku",
+      "alt_img": "https://www.nintenderos.com/wp-content/uploads/2022/10/goku-super-saiyan.webp"
     }
   ]
 }
